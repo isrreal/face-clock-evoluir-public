@@ -2,7 +2,7 @@
 
 Sistema de registro de ponto com biometria facial, geofencing e classificação de atestados por deep learning.
 
-![Arquitetura do sistema](docs/architecture.svg)
+![Arquitetura do sistema](architecture.svg)
 
 ---
 
